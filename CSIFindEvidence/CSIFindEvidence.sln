@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSIFindEvidence", "CSIFindEvidence\CSIFindEvidence.csproj", "{15AF2F66-3B8B-4E18-B437-FF9ED09A37DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15AF2F66-3B8B-4E18-B437-FF9ED09A37DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AF2F66-3B8B-4E18-B437-FF9ED09A37DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AF2F66-3B8B-4E18-B437-FF9ED09A37DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AF2F66-3B8B-4E18-B437-FF9ED09A37DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A9913AE-3A94-4FFB-9574-C8D41C2F1B2F}
+	EndGlobalSection
+EndGlobal
